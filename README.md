@@ -1,2 +1,2 @@
 # GeoTrigger
-위치 정보를 통해 트리거를 작동시키는 Application
+지리적 정보에 의한 트리거 이벤트 Application
