@@ -1,15 +1,19 @@
 # locus-back-end
-위치 기반 서비스 백엔드 소스
+Amazon Location Service 리버스 엔지니어링을 통한 구현 프로젝트
+
+> https://aws.amazon.com/location/
 
 ### ``서비스 구분``
 
-### 맵 설정
+### Maps
 
-### 위치 로그
+### Places
 
-### 관심 지점
+### Routes
 
-### 지오펜스
+### Trackers
+
+### Geofences
 
 ### ``개발 환경``
 
